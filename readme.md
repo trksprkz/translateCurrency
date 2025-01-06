@@ -1,0 +1,1 @@
+A simple Chrome Extension to Real-time Convert Currency you come across into your preferred.
