@@ -1,6 +1,6 @@
 import currencyapi from '@everapi/currencyapi-js';
 
-const API_KEY = 'cur_live_RHjB6NFMkJmz0Mxq3IDwLFz6TCcZKOt2A5a98wF9';
+const API_KEY = '';
 const client = new currencyapi(API_KEY);
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
